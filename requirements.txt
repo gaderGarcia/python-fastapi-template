@@ -7,3 +7,4 @@ redis==5.0.1
 requests==2.31.0
 rq==1.15.1
 fastapi==0.109.2
+rules @ git+https://github.com/gaderGarcia/dummy-rules.git@3e6cd31f047e1553c64d70e4868145b1975a3df2

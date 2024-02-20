@@ -1,10 +1,11 @@
 import random
 #rule.py
+#We are going to use an approach to import from github directly
 def calculate_score(customer:str):
     #Dummy operation to provide an score between 0-10
     #based on the length of the customer
     lenght = len(customer)
-    random_score=random.randrange(11)
+    random_score=random.randrange(21)
     score = random_score - lenght
     if score < 0:
         return 0

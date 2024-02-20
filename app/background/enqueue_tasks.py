@@ -1,7 +1,8 @@
 from redis import Redis
 from decouple import config
 from rq import Queue, Callback
-from ..tasks import rule
+#from ..tasks import rule #We are going to pull from my github repo
+from rules import rule
 import time
 
 #Tell RQ what Redis connection to use

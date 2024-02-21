@@ -10,7 +10,7 @@ and help us to scale out.
 
 The worker project and this application use an external library project that we created named rules. The rules project defines a simple function that we want to execute inside the workers.
 
-- the fastAPI is invoked using /transactions/score?customer=vesta
+- the fastAPI is invoked using /transactions/score?customer=test
 - The application routes to transactions routes
 - inside of the transactions calls background/enqueue_tasks folder
 - inside of enqueue_tasks import rules project to use the calculate_score function

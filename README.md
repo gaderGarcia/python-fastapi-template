@@ -22,4 +22,4 @@ The worker project and this application use an external library project that we 
   rq-worker-docker: https://github.com/gaderGarcia/simple-rq-worker
 
 
-![sequence-diagram](https://github.com/gaderGarcia/python-fastapi-template/assets/7773945/84336471-689d-424b-98b3-045cde9fd0b1)
+![sequence-diagram](https://github.com/gaderGarcia/python-fastapi-template/assets/7773945/2606d52a-2f2b-4ce7-a097-9424ac9f092e)

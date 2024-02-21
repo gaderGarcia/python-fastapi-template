@@ -21,3 +21,5 @@ The worker project and this application use an external library project that we 
   rules repo: https://github.com/gaderGarcia/dummy-rules
   rq-worker-docker: https://github.com/gaderGarcia/simple-rq-worker
 
+
+![sequence-diagram](https://github.com/gaderGarcia/python-fastapi-template/assets/7773945/84336471-689d-424b-98b3-045cde9fd0b1)
